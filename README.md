@@ -3,7 +3,7 @@
 Display a carousel of related content plugin for video.js
 
 ## Getting Started
-Download [videojs](http://www.videojs.com/) and [videojs.ga](https://github.com/mickey/videojs-ga)
+Download [videojs](http://www.videojs.com/)
 
 In your web page:
 ```html
